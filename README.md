@@ -16,8 +16,6 @@ data daerah, serta relasi antara keduanya.
 3. Jalankan program:
    ./program
 
-## Update README.md - penambahan deskripsi dan cara penggunaan program
-
 ## Riwayat commit repository terdiri dari:
 1. Pembuatan file README.md sebagai dokumentasi repository.
 2. Penambahan source code program utama dalam file main.cpp.
