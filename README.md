@@ -11,8 +11,9 @@ data daerah, serta relasi antara keduanya.
 
 ## Cara Menjalankan Program
 1. Compile program menggunakan compiler C++:
+   
    g++ main.cpp -o program
-2. Jalankan program:
+3. Jalankan program:
    ./program
 
 ## Update README.md - penambahan deskripsi dan cara penggunaan program
