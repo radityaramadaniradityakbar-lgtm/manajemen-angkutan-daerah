@@ -16,7 +16,22 @@ data daerah, serta relasi antara keduanya.
 3. Jalankan program:
    ./program
 
+## Kontribusi Anggota
+
+Proyek ini dikerjakan secara berkelompok dengan pembagian tugas sebagai berikut:
+
+- Mochammad Raditya Ramadani  Akbar (103072400039)
+  - Perancangan struktur data dan deklarasi program
+  - Implementasi  `.h`
+  - Implementasi program utama pada `main.cpp`
+
+- Danendra  Adi Wicaksono (103072400076)
+  - Implementasi fungsi dan logika program pada `.cpp`
+  - Integrasi dan pengujian program
+
 ## Riwayat commit repository terdiri dari
-1. Pembuatan file README.md sebagai dokumentasi repository.
-2. Penambahan source code program utama dalam file main.cpp.
-3. Pembaruan README.md dengan deskripsi program dan cara penggunaan.
+   1. Create README.md - pembuatan dokumentasi repository
+   2. Create header - deklarasi struktur dan fungsi
+   3. Create .cpp - implementasi fungsi program
+   4. Create main.cpp - implementasi program utama
+   5. Update README.md - deskripsi dan kontribusi anggota
